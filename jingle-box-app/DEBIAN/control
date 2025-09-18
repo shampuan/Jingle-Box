@@ -1,0 +1,7 @@
+Package: jinglebox
+Version: 1.0.1
+Architecture: all
+Maintainer: A. Serhat KILICOGLU <www.github.com/shampuan>
+Depends: python3, python3-pyqt5, python3-pyqt5.qtmultimedia
+Description: A simple Jingle Box application for playing audio clips.
+

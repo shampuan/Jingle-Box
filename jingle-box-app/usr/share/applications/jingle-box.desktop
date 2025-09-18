@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0.1
+Type=Application
+Name=Jingle Box
+Comment=Radyo yayınları ve etkinlikler için ses efektleri oynatıcı.
+Exec=/usr/bin/jinglebox
+Icon=jinglebox
+Terminal=false
+Categories=AudioVideo;Player;
